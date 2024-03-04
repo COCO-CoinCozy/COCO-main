@@ -1,1 +1,5 @@
 rootProject.name = 'COCO-main'
+include 'CMS'
+include 'COMMON'
+include 'DB'
+include 'BATCH'
